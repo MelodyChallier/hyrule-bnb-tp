@@ -560,6 +560,17 @@ button:hover a{
     display: none;
 }
 
+.contact{
+	color: black;
+	text-decoration: none;
+}
+
+.contact:hover{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
 @media (max-width: 991px){
 	.container-footer{
 	display: flex;
