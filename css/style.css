@@ -556,8 +556,8 @@ button:hover a{
 	text-decoration: none;
 }
 
-p{
-	overflow: hidden !important;
+::-webkit-scrollbar {
+    display: none;
 }
 
 @media (max-width: 991px){
